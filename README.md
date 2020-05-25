@@ -1,10 +1,10 @@
----
+
 # Telegram bot with administration
 
 > ## BOT CREATED BY
 >* [Evgeniy Malyh](http://vk.com/evgeniymalyh)
 >* [Vadim Tchunikhin](https://vk.com/duuuda)
----
+
 ## About the bot:
 
 ### The bot has a 3-button main keyboard and several commands.
